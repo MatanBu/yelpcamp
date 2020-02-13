@@ -1,6 +1,6 @@
 # yelpcamp
 
-![](gravar-1.gif)
+![alt text](https://imgur.com/bOFUDiQ.gif)
 
 Yelpcamp is fully functional NodeJs web app
 
